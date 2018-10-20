@@ -1,5 +1,5 @@
 _repo: Story-of-Aeneas_6003
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -24,5 +24,6 @@ subjects:
 - !lcsh 'Virgil. Aeneis'
 - !lcsh 'Aeneas (Legendary character)'
 - !lcc 'PA'
+- GITenberg
 title: Story of Aeneas
 url: http://www.gutenberg.org/ebooks/6003
